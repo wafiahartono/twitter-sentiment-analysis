@@ -1,0 +1,45 @@
+.prediction-positive {
+    background-color: #def7ec;
+    color: #046c4e;
+}
+
+.prediction-neutral {
+    background-color: #f4f5f7;
+    color: #24262d;
+}
+
+.prediction-negative {
+    background-color: #fde8e8;
+    color: #c81e1e;
+}
+
+.prediction-valid {
+    background-color: #def7ec;
+    color: #046c4e;
+}
+
+.prediction-invalid {
+    background-color: #fde8e8;
+    color: #c81e1e;
+}
+
+.bg-green-600 {
+    background-color: #057a55;
+}
+
+.bg-gray-600 {
+    background-color: #4c4f52;
+}
+
+.max-w-lg {
+    max-width: 32rem;
+}
+
+.max-w-md {
+    max-width: 28rem;
+}
+
+.text-base {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}

@@ -1,0 +1,8 @@
+{
+  "require": {
+    "coderjerk/bird-elephant": "^0.4.2",
+    "ext-mysqli": "*",
+    "php-ai/php-ml": "^0.9.0",
+    "sastrawi/sastrawi": "^1"
+  }
+}
